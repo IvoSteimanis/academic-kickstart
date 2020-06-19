@@ -3,7 +3,7 @@
 
 title: "Pro-social behavior and climate change"
 authors: ["admin, "Adam Henry", "Björn Vollan"]
-date: 
+date: 2020-06-19
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

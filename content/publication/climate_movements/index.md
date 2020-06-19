@@ -49,9 +49,9 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "International migration aspirations from our sample in Bangladesh and Vietnam"
- focal_point: ""
-  preview_only: false
+	caption: "International migration aspirations from our samples in Bangladesh and Vietnam"
+	focal_point: ""
+	preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

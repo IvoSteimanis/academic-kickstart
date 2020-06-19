@@ -4,7 +4,7 @@
 title: "The impact of terminated Payments for Ecosystem Services (PES) on carbon stocks, deforestation, collective action and intrinsic motivations for conservation."
 summary: "The main driver of deforestation in the Global South is agriculture, particularly in Africa by smallholders through slash and burn practices. Thus, ecosystem service providers are mainly smallholder farmers managing the forests. The proposed research project will evaluate the impact of a terminated, asset-building PES scheme in Mozambique. The Sofala Carbon Community Project (SCCP) contracted over 2500 smallholder farmers for the adoption of agroforestry between 2003 and 2015"
 authors: ["Björn Vollan", "Tobias Vorlaufer", "Tereza Alves", "Tobias Landmann", "admin"]
-tags: ["PES", "agroforestry" "deforestation" "field experiments" "remote sensing ""carbon sequestration" "crowding-out"]
+tags: ["PES", "agroforestry", "deforestation", "field experiments", "remote sensing ", "carbon sequestration", "crowding-out"]
 categories: [Project]
 date: 2020-06-19T12:06:38+01:00
 
