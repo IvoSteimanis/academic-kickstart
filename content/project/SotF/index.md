@@ -16,7 +16,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Malaita, Solomon Islands"
+  caption: "Tuo'o village on Reef Islands in Temotu Province"
   focal_point: ""
   preview_only: false
 

@@ -23,7 +23,7 @@ bio: My research interests include the impacts of climate change on human behavi
 interests:
 - Human response to climate change
 - Risk appraisal, pro-social behavior and adaptation actions
-- Payment for ecosystem services
+- Payments for ecosystem services
 
 education:
   courses:
@@ -71,6 +71,6 @@ user_groups:
 ---
 
 I am a postdoc in the research group of Sustainable Use of Natural Resources at Marburg University.  My main research interest lies in the behavioral impacts of climate change. How does the prospect displacement affect people's pro-social behavior? How do people assess the impact and risk of sea-level rise impacts? How do they plan to adapt? Do they plan to migrate abroad? 
-To get a grasp on these questions, I go to the field and use a combination of experimental methods, surveys and focus group discussion with people that are strongly affected by rising sea-levels. So far, I have collected data on low-lying atolls in Solomon Islands and in two of the most affected coastal regions in Bangaldesh (Ganges Delta) and Vietnam (Mekong Delta).
+To get a grasp on these questions, I go to the field and use a combination of experimental methods, surveys and focus group discussion with people that are strongly affected by rising sea-levels. So far, I have conducted research with people living on low-lying atolls in Solomon Islands and in two of the most affected coastal regions in Bangaldesh (Ganges Delta) and Vietnam (Mekong Delta).
 
 
