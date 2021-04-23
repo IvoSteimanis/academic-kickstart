@@ -1,13 +1,13 @@
 ﻿---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Money can’t buy democratic decision making by local leaders – Experimental evidence from rural Namibia"
+title: "The perils of rewarding paying leaders for appearing democratic – Experimental evidence from Namibia"
 authors: ["admin", "Esther Blanco", "Björn Vollan"]
 date: 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-19
+publishDate: 2021-04-23
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,12 +19,12 @@ publication_types: ["3"]
 publication: "Working Paper"
 publication_short: ""
 
-abstract: "International aid conditional on holding democratic elections has been for long a preferred policy tool to spread democratization. A paramount obstacle to these policies is the potential of recipients to manipulate elections, enabling them to keep receiving aid without giving up power. We report results from an experiment conducted with 64 local leaders in rural Namibia that show the effect of conditional payments for democratic choices on leaders’ choice of rules for group decision-making. Each leader selects among three rules of decision making, namely democratic, pseudo-democratic (appearing democratic but keeping decision power), and dictator. The group decision is on how to allocate resources between leaders and a set of their constituents. Leaders make rule choices over three rounds, where we gradually introduce conditional payments for appearing democratic (including both the pseudo- and democratic rules). First, our results show that without conditional payments, the majority of leaders are truly democratic. Second, we find that on average the conditional payments lead to an increase in pseudo-democratic choices. However, we find heterogeneous effects depending on the leader’s motivation to run for office. Leaders that are intrinsically motivated are significantly less likely to choose the autocratic rule in the baseline condition compared to extrinsically motivated leaders. Introducing conditional payments has adverse effects on intrinsic leaders (crowding-out), while extrinsic leaders respond to the incentives as expected and choose less often the dictatorial rule (crowding-in)."
+abstract: "International aid conditional on holding democratic electionsdemocratic principles has been for long a policy tool to spread democratizationto achieve development goals. An obstacle that this policy faces is the capacity of recipients to manipulate elections, enabling them to receive aid without giving up power. We report results from an experiment conducted with 64 local leaders in rural Namibia that explore the effect of conditional monetary payments on choices for group decision-making. Conditional payments to for appearinging democratic are introduced in an environment where each leader selects among three rules for group decision-making: democratic (simple majority), pseudo-democratic (appearing democratic but keeping decision power), and dictatorial (decision by the leader). The group decision is on how to allocate resources between leaders and a set of their constituents villagers (N=384). Leaders make rule choices over three rounds, where we gradually introduce conditional payments for appearing democratic (including both the pseudo- and democratic rules). Our results show that without payments, 64 percent of leaders choose the democratic rule. Introducing conditionalWith payments, independent of the amount, does not increase the average share of democratic choices is unaffected and but decreases the number of dictatorial choices decreases at the expense of an increase in pseudo-democratic choices. These average effects mask substantial heterogeneity depending on leaders’ baseline choices, as one-quarter of baseline democrats switches to the pseudo-democratic or even dictatorial rule with conditional payments."
 
 # Summary. An optional shortened abstract.
 
 
-tags: ["procedural fairness", "field experiment", "monetary incentives", "motivational crodwing"]
+tags: ["democracy", "group decision-making", "conditional payments", "motivational crodwing"]
 categories: ["Working Paper"]
 featured: false
 
@@ -49,7 +49,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Main treatment effects by bonus payments on rule choice"
+  caption: "How monetary incentives affect group decision-making rules chosen by real leaders."
   focal_point: ""
   preview_only: false
 

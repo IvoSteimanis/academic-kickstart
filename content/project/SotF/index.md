@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Shadow of the Future"
+title: "The Shadow of the Future: How climate change affects human behavior"
 summary: "The aim of the project is to better understand the climate change migration nexus. How do affected people perceive their exposure and risk of displacement? Does the prospect of displacement affect pro-social behaviors and collective actions already today? Do people actually want to leave? To answer some of these questions, we conducted lab-in-the field experiments in three sea-levle rise hot-spots: low-lying islands in the Pacific (Solomon Islands) and river deltas in Bangladesh and Vietnam.
 "
 authors: ["Björn Vollan", "Matthias Mayer", "Adam Henry", "admin"]

@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "mr_robot"
+theme = "minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -109,8 +109,8 @@ office_hours = ["Please make an appointment."]
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "i_steimanis", link = "https://twitter.com/i_steimanis"},
-  {icon = "skype", icon_pack = "fab", name = "ivo_risn", link = "skype:ivo_risn"},
+  {icon = "twitter", icon_pack = "fab", name = "DM me", link = "https://twitter.com/i_steimanis"},
+  {icon = "skype", icon_pack = "fab", name = "Call me", link = "skype:ivo_risn"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   #{icon = "telegram", icon_pack = "fab", name = "tlvoli", link = "https://telegram.me/@tlvoli"},
@@ -124,7 +124,7 @@ contact_links = [
 sharing_image = "ivo.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "i_steimanis"
+twitter = "i.steimanis"
 
 ############################
 ## Regional Settings

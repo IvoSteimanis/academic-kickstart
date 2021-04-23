@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Science Advances, Volume 6, Issue 15"
-publication_short: "Sci. Adv."
+publication_short: "Science Advances"
 
 abstract: "This study tests the common conception that democratically elected leaders behave in the interest of their constituents more than traditional chiefs do. Our sample includes 64 village leaders and 384 villagers in rural
 Namibia, where democratically elected leaders and traditional chiefs coexist. We analyze two main attributes of local political leaders: procedural fairness preferences and preferential treatment of relatives (nepotism).

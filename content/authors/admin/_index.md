@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant, PostDoc
+role: Research Associate, PostDoc
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoc in the research group of Sustainable Use of Natural Resources at Marburg University.  My main research interest lies in the behavioral impacts of climate change. How does the prospect displacement affect people's pro-social behavior? How do people assess the impact and risk of sea-level rise impacts? How do they plan to adapt? Do they plan to migrate abroad? 
-To get a grasp on these questions, I go to the field and use a combination of experimental methods, surveys and focus group discussion with people that are strongly affected by rising sea-levels. So far, I have conducted research with people living on low-lying atolls in Solomon Islands and in two of the most affected coastal regions in Bangaldesh (Ganges Delta) and Vietnam (Mekong Delta).
+I am a postdoc in the research group of Sustainable Use of Natural Resources at Marburg University. I wrote my disseration on the behavioral impacts of climate change. How does the prospect displacement affect people's pro-social behavior? How do people assess the impact and risk of sea-level rise impacts? How do they plan to adapt? Do people intend to stay, move internally or even abroad? 
+In my research I use a combination of experimental methods, surveys and focus group discussion to learn from people with relevant experiences. I have first hand experience in conducting research in the Pacific (Solomon Islands), Sub-Saharan Africa (Namibia) and South-East Asia (Bangladesh, Vietnam). Currently I am working on a project that explores, through various lenses, the long-term effects of a terminated asset-building PES project in Mozambique.
 
 
