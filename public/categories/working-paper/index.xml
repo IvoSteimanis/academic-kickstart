@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Paper | Ivo Steimanis</title>
+    <link>https://ivosteimanis.github.io/categories/working-paper/</link>
+      <atom:link href="https://ivosteimanis.github.io/categories/working-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Working Paper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ivo Steimanis 2021</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivosteimanis.github.io/img/ivo.jpg</url>
+      <title>Working Paper</title>
+      <link>https://ivosteimanis.github.io/categories/working-paper/</link>
+    </image>
+    
+    <item>
+      <title>(Climate) Migrants welcome? Evidence from a Survey-Experiment in Austria </title>
+      <link>https://ivosteimanis.github.io/publication/migration_survey_experiment/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivosteimanis.github.io/publication/migration_survey_experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate-related hazards increase risk aversion, place attachment and migration aspiration</title>
+      <link>https://ivosteimanis.github.io/publication/climate_movements/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivosteimanis.github.io/publication/climate_movements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prosocial behavior in response to slow- and fast-onset hazards</title>
+      <link>https://ivosteimanis.github.io/publication/psb_cc/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivosteimanis.github.io/publication/psb_cc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The perils of rewarding paying leaders for appearing democratic – Experimental evidence from Namibia</title>
+      <link>https://ivosteimanis.github.io/publication/paying_for_democracy/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivosteimanis.github.io/publication/paying_for_democracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When female leaders believe that men make better leaders: Empowerment in community-based water management in rural Namibia</title>
+      <link>https://ivosteimanis.github.io/publication/leadership_norms/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivosteimanis.github.io/publication/leadership_norms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
